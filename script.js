@@ -81,4 +81,78 @@
   //   alert("car is smaller than cat");
   //   }
 
+
+// Question no 7
+
+//  let secretNumber = Math.floor(Math.random() * 10) + 1;
+// let userGuess = parseInt(prompt("Guess the secret number (between 1 and 10):"));
+
+// if (userGuess === secretNumber) {
+//     alert("Bingo! Correct answer");
+// } else if (userGuess + 1 === secretNumber || userGuess - 1 === secretNumber) {
+//     alert("Close enough to the correct answer");
+// } else {
+//     alert("Sorry, try again. The correct number was " + secretNumber);
+// }
+
+
+ // Question no 8
+
+// let userNumber = parseInt(prompt("Enter a number:"));
+
+// // Check if the number is divisible by 3
+// if (userNumber % 3 === 0) {
+//     alert("The number " + userNumber + " is divisible by 3.");
+// } else {
+//     alert("The number " + userNumber + " is not divisible by 3.");
+// }
+
+
+ // Question no 9
+
+// let userNumber = prompt("Enter a number:");
+// let input = parseInt( userNumber);
+
+// if (userNumber % 2 === 0) {
+//     alert("The number " + " is even.");
+// } else {
+//     alert("The number "+ " is odd.");
+// }
+
+
+ // Question no 10
+
+// let  T = parseInt(prompt("Temperature"))
+
+// if (T > 40){
+//     alert("It is to hot outside")
+// }else if (T > 30){
+//     alert("The weather today is normal")
+// }else if (T > 20){
+//     alert("Today's weather is cool")
+// }else if (T > 10){
+//     alert("OMG! Today weather is so cool")
+// }
+
+
+ // Question no 11
+
+//  let Firstnumber = prompt("Enter a First number")
+//  let Secondnumber = prompt("Enter a Second number")
+//  let Operation  = prompt("+, -, *, /, %")
+
+//  var result
+
+ // if (operation == "+"){
+//     result = Firstnumber + Secondnumber
+// }else if (operation == "-"){
+//     result = Firstnumber - Secondnumber
+// }else if (operation == "*"){
+//     result = Firstnumber * Secondnumber
+// }else if (operation == "/"){
+//     result = Firstnumber / Secondnumber
+// }else if (operation == "%"){
+//     result = Firstnumber % Secondnumber
+// }
+// alert("result")
  
